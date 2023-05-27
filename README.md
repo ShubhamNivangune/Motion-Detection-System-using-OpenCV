@@ -10,21 +10,20 @@ winsound library (for playing alarm sound on Windows)
 
 # Installation
 Clone the repository:
-Copy code
+
 git clone https://github.com/ShubhamNivangune/Motion-Detection-System-using-OpenCV.git
 Install the required dependencies:
-Copy code
+
 pip install opencv-python
 Download the pre-trained person detection model haarcascade_fullbody.xml and place it in the project directory.
 
 (Optional) If you're using Windows, make sure you have the winsound library installed:
 
-Copy code
 pip install winsound
 
 # Usage
 Run the motion_detection.py script:
-Copy code
+
 python motion_detection.py
 The webcam feed will be displayed in a window.
 
