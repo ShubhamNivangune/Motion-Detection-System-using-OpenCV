@@ -11,7 +11,7 @@ winsound library (for playing alarm sound on Windows)
 # Installation
 Clone the repository:
 Copy code
-git clone https://github.com/your-username/motion-detection-system.git
+git clone https://github.com/ShubhamNivangune/Motion-Detection-System-using-OpenCV.git
 Install the required dependencies:
 Copy code
 pip install opencv-python
